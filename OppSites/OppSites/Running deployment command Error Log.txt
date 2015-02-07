@@ -1,0 +1,10 @@
+﻿Command: "D:\home\site\deployments\tools\deploy.cmd"
+Handling .NET Web Application deployment.
+D:\home\site\repository\OppSites\OppSites\Scripts\Test.ts(2,24): error TS1005: Build: ';' expected. [D:\home\site\repository\OppSites\OppSites\OppSites.csproj]
+Failed exitCode=1, command="D:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe" "D:\home\site\repository\OppSites\OppSites\OppSites.csproj" /nologo /verbosity:m /t:Build /t:pipelinePreDeployCopyAllFilesToOneFolder /p:_PackageTempDir="D:\local\Temp\23dfa6f5-0a9c-4f02-b573-6bfd8c127228";AutoParameterizationWebConfigConnectionStrings=false;Configuration=Release /p:SolutionDir="D:\home\site\repository\OppSites\\"
+An error has occurred during web site deployment.
+Handling .NET Web Application deployment.
+D:\home\site\repository\OppSites\OppSites\Scripts\Test.ts(2,24): error TS1005: Build: ';' expected. [D:\home\site\repository\OppSites\OppSites\OppSites.csproj]
+Failed exitCode=1, command="D:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe" "D:\home\site\repository\OppSites\OppSites\OppSites.csproj" /nologo /verbosity:m /t:Build /t:pipelinePreDeployCopyAllFilesToOneFolder /p:_PackageTempDir="D:\local\Temp\23dfa6f5-0a9c-4f02-b573-6bfd8c127228";AutoParameterizationWebConfigConnectionStrings=false;Configuration=Release /p:SolutionDir="D:\home\site\repository\OppSites\\"
+An error has occurred during web site deployment.
+D:\Program Files (x86)\SiteExtensions\Kudu\42.40114.1341\bin\scripts\starter.cmd "D:\home\site\deployments\tools\deploy.cmd"
